@@ -65,4 +65,4 @@ Through this project, I gained hands-on experience in:
 
 ## Author
 
-Daksh
+Daksh Chovatiya
